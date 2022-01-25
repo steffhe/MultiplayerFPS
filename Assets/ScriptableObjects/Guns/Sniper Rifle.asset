@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f45cf0e1f8d0e44a2930f54dd20583, type: 3}
+  m_Name: Sniper Rifle
+  m_EditorClassIdentifier: 
+  gunName: Pistol
+  fireRate: 1
+  bloom: 40
+  recoil: 40
+  kickback: 0.5
+  aimSpeed: 7
+  damage: 800
+  ammo: 15
+  clipSize: 5
+  reloadTime: 2
+  burst: 0
+  prefab: {fileID: 7466018458602090438, guid: c1d9c9bafd0a8a5458fab34a0c1ad44e, type: 3}
+  image: {fileID: 2800000, guid: 73e59ce63c047364eba1533b83e6ae7a, type: 3}
+  shootingSound: {fileID: 8300000, guid: 09af806c153f0a6469dd4754a77daf5d, type: 3}

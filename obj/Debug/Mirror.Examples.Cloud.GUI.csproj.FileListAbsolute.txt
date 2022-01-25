@@ -1,0 +1,2 @@
+D:\UnityProjects\MultiplayerFPS\multiplayer\obj\Debug\Mirror.Examples.Cloud.GUI.csprojAssemblyReference.cache
+D:\UnityProjects\MultiplayerFPS\multiplayer\obj\Debug\Mirror.Examples.Cloud.GUI.csproj.CoreCompileInputs.cache

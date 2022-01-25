@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f45cf0e1f8d0e44a2930f54dd20583, type: 3}
+  m_Name: Machine Gun
+  m_EditorClassIdentifier: 
+  gunName: Machine Gun
+  fireRate: 0.075
+  bloom: 30
+  recoil: 8
+  kickback: 0.2
+  aimSpeed: 8
+  damage: 200
+  ammo: 90
+  clipSize: 30
+  reloadTime: 1.5
+  burst: 1
+  prefab: {fileID: 7466018458602090438, guid: e5bc1f9ffea6f394484f709da7d12aee, type: 3}
+  image: {fileID: 2800000, guid: 1185ea86286b3124c9185a90f60b0c3d, type: 3}
+  shootingSound: {fileID: 8300000, guid: 09af806c153f0a6469dd4754a77daf5d, type: 3}

@@ -1,0 +1,3 @@
+D:\UnityProjects\MultiplayerFPS\multiplayer\obj\Debug\Mirror.csprojAssemblyReference.cache
+D:\UnityProjects\MultiplayerFPS\multiplayer\obj\Debug\Mirror.csproj.CoreCompileInputs.cache
+D:\UnityProjects\MultiplayerFPS\multiplayer\obj\Debug\Mirror.csproj.AssemblyReference.cache
